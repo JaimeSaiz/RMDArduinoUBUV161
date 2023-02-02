@@ -12,9 +12,9 @@ Software
 1.	CAN-BUS Shield Arduino IDE - Install from library manager
 2.	Clone or download this repository:
 Windows: C:\{Users}\User\Documents\Arduino\libraries\
-Linux:
-   1.	/home/User/arduino-{1.8.4}/libraries/
-   2.	{Arduino IDE install folder}/libraries
+   Linux:
+      1.	/home/User/arduino-{1.8.4}/libraries/
+      2.	{Arduino IDE install folder}/libraries
 ## Usage
 If it is placed in the directory:
 •	C:\Users\User\Documents\Arduino\libraries\RMD_Arduino_CAN_UBU_V161
