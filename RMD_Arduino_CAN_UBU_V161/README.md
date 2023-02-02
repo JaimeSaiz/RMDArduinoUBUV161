@@ -1,34 +1,37 @@
-# RMDx8Arduino
-RMD-X8モータのCAN通信用コマンドのクラス
+# RMD_Arduino_CAN_UBU_V161
+RMD Series (GYEMS) – Bus CAN
+## Requirement
+Hardware
+•	Arduino UNO R3 / MEGA 2560 R3 / MKR / Portenta (https://store.arduino.cc/)
+•	CAN-bus Shield
+•	RMD Serie motor
+•	24-48 V
+Software
+•	CAN-BUS Shield
+## Installation
+1.	CAN-BUS Shield Arduino IDE - Install from library manager
+2.	Clone or download this repository:
+Windows: C:\{Users}\User\Documents\Arduino\libraries\
+Linux:
+   1.	/home/User/arduino-{1.8.4}/libraries/
+   2.	{Arduino IDE install folder}/libraries
+## Usage
+If it is placed in the directory:
+•	C:\Users\User\Documents\Arduino\libraries\RMD_Arduino_CAN_UBU_V161
+In the program, it can be loaded with: #include <RMD_Arduino_CAN_UBU_V161.h>
+## Note
+All commands.
+Reference
+PDF File (Mete el fichero pdf que lo acompaña como parte de los ficheros subidos a GitHub...)
 
-# Requirement
-**Hardware**
-* Arduino UNO R3
-* Sparkfun CAN-bus shield​
-* RMD-X8, RND-X8 pro MOTOR
-* 24-48 V
+## Image
+CAN Bus Shield:
+![image](https://user-images.githubusercontent.com/78860501/216384962-e93cf5fe-e66e-41a2-81f3-96e8a32f2003.png)
 
-**Software**
-* CAN-BUS Shield
+USB to UART :
 
-# Installation
-1. CAN-BUS Shield
-   Arduino IDE のライブラリマネージャーからインストール
 
-2. 本リポジトリをクローンもしくはダウンロードし、 \
-Windows :` C:\Users\ユーザー名\Documents\Arduino\libraries\` \
-Linux : `/snap/arduino/41/Arduino/libraries/`
-に保存
 
-# Usage
-C:\Users\ユーザー名\Documents\Arduino\librariesのディレクトリに配置されていれば、\
-プログラムにて
-`#include <RMDx8Arduino.h> `
-で読み込むことができる。
 
-# Note
-全部のコマンドがあるわけではない\
 
-# Reference
-コマンドのチートシート
-https://www.dropbox.com/s/2yzt90i10d6dn27/RMD%20servo%20motor%20control%20protocol%20%28CAN%20BUS%20%29V1.61.pdf?dl=0
+
