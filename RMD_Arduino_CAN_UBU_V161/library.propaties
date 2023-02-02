@@ -1,8 +1,7 @@
 name=RMD_Arduino_CAN_UBU_V161
 version=1.0
 author=Jaime Sáiz de la Peña
-sentence=This is a library for control MC Brushless Servo Driver with can.
-paragraph=This is a library for control MC Brushless Servo Driver with can.
+sentence=This is a library for control RMD-series with can. Firmware: 1.61
 category=Device Control
 url=
 architectures=*
