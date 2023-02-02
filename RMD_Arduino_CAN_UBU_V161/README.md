@@ -22,7 +22,7 @@ In the program, it can be loaded with: #include <RMD_Arduino_CAN_UBU_V161.h>
 ## Note
 All commands.
 Reference
-PDF File (Mete el fichero pdf que lo acompaña como parte de los ficheros subidos a GitHub...)
+PDF File: RMD servo motor control protocol (CAN BUS )V1.61
 
 ## Image
 CAN Bus Shield:
