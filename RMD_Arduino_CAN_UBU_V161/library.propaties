@@ -1,7 +1,7 @@
-name=RMD_Arduino_CAN_UBU_V161
+name=RMD_Arduino_CAN_UBU_V161 Library
 version=1.0
 author=Jaime Sáiz de la Peña
-sentence=This is a library for control RMD-series with can. Firmware: 1.61
+maintainer=UBU (University of Burgos - Spain)  <http://www.ubu.es/>
+sentence=This is a library for control RMD-series with CAN-Bus. Firmware: 1.61
 category=Device Control
-url=
 architectures=*
