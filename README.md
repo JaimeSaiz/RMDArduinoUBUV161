@@ -14,7 +14,9 @@ RMD Series (GYEMS) – Bus CAN
 ## Installation
 1.	CAN-BUS Shield Arduino IDE - Install from library manager
 2.	Clone or download this repository:
-Windows: C:\{Users}\User\Documents\Arduino\libraries\
+
+   Windows: 
+      C:\{Users}\User\Documents\Arduino\libraries\
    Linux:
       1.	/home/User/arduino-{1.8.4}/libraries/
       2.	{Arduino IDE install folder}/libraries
