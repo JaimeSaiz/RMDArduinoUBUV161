@@ -3,6 +3,7 @@ RMD Series (GYEMS) – Bus CAN
 ## Requirement
 ### Hardware
 •	Arduino UNO R3 / MEGA 2560 R3 / MKR / Portenta (https://store.arduino.cc/)
+
 •	CAN-bus Shield
 •	RMD Serie motor
 •	24-48 V
