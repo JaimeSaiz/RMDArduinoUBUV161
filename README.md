@@ -1,5 +1,6 @@
 # RMD_Arduino_CAN_UBU_V161
 RMD Series (GYEMS) – Bus CAN
+
 ## Requirement
 ### Hardware
 •	Arduino UNO R3 / MEGA 2560 R3 / MKR / Portenta (https://store.arduino.cc/)
@@ -9,29 +10,38 @@ RMD Series (GYEMS) – Bus CAN
 •	RMD Serie motor
 
 •	24-48 V
+
 ### Software
 •	CAN-BUS Shield
+
 ## Installation
 1.	CAN-BUS Shield Arduino IDE - Install from library manager
 2.	Clone or download this repository:
 
-Windows:
+	Windows:
       
-      C:\{Users}\User\Documents\Arduino\libraries\
+		C:\{Users}\User\Documents\Arduino\libraries\
 
-Linux:
+	Linux:
       
-      1.	/home/User/arduino-{1.8.4}/libraries/
+		/home/User/arduino-{1.8.4}/libraries/
       
-      2.	{Arduino IDE install folder}/libraries
+		{Arduino IDE install folder}/libraries
+
 ## Usage
 If it is placed in the directory:
-•	C:\Users\User\Documents\Arduino\libraries\RMD_Arduino_CAN_UBU_V161
-In the program, it can be loaded with: #include <RMD_Arduino_CAN_UBU_V161.h>
+
+		C:\Users\User\Documents\Arduino\libraries\RMD_Arduino_CAN_UBU_V161
+
+In the program, it can be loaded with: 
+
+		#include <RMD_Arduino_CAN_UBU_V161.h>
+
 ## Note
 All commands.
+
 ## Reference
-PDF File: RMD servo motor control protocol (CAN BUS )V1.61
+PDF File: RMD servo motor control protocol (CAN BUS ) V1.61 https://github.com/JaimeSaiz/RMD_Arduino_CAN_UBU_V161/blob/main/RMD_Arduino_CAN_UBU_V161/RMD%20servo%20motor%20control%20protocol%20(CAN%20BUS%20)V1.61.pdf  
 
 ## Image
 CAN Bus Shield:
